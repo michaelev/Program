@@ -1,0 +1,16 @@
+Tugas Akhir / Skripsi
+Michael Emmanuel Victorious	NRP : 23415001
+Universitas Kristen Petra
+
+Sistem Kendali Platform Duckietown Untuk Menjaga Jarak Aman 2 Autonomous Car
+Control System of Duckietown Platform to Maintain Safe Distance Between 2 Autonomous Cars
+
+Tugas akhir ini berfokus pada kemampuan Duckiebot dalam menjaga jarak aman dengan memanfaatkan program dan hardware daripada platform Duckietown.
+
+Directory Program Menjaga Jarak Aman :
+
+~/duckietown/catkin_ws/src/50-misc-additional-functionality/vehicle_detection/src/vehicle_detection_node.py
+
+~/duckietown/catkin_ws/src/50-misc-additional-functionality/vehicle_detection/src/vehicle_avoidance_control_node.py
+
+Source Code : https://github.com/duckietown/Software/tree/master17
